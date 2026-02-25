@@ -48,7 +48,7 @@ const config: Config = {
         },
       },
       fontFamily: {
-        display: ['Playfair Display', 'Georgia', 'serif'],
+        display: ['Montserrat', 'Helvetica Neue', 'sans-serif'],
         body: ['Montserrat', 'Helvetica Neue', 'sans-serif'],
       },
       animation: {
