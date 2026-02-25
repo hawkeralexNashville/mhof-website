@@ -16,7 +16,7 @@ export default function Hero() {
         <div
           className="absolute inset-0 bg-cover bg-center animate-ken-burns"
           style={{
-            backgroundImage: `url('/images/hero/hero-museum-interior.jpg')`,
+            backgroundImage: `url('/images/hero/home-hero-slide-01.jpg')`,
           }}
         />
         {/* Dark gradient overlay */}
