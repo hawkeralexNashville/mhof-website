@@ -49,7 +49,7 @@ const config: Config = {
       },
       fontFamily: {
         display: ['Playfair Display', 'Georgia', 'serif'],
-        body: ['DM Sans', 'Helvetica Neue', 'sans-serif'],
+        body: ['Montserrat', 'Helvetica Neue', 'sans-serif'],
       },
       animation: {
         'fade-in': 'fadeIn 0.8s ease-out forwards',
