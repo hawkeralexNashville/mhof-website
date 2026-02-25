@@ -83,7 +83,7 @@ export default function Header() {
         className={`fixed left-0 right-0 z-40 transition-all duration-500 ${
           isScrolled
             ? 'top-0 bg-charcoal-950/95 backdrop-blur-md shadow-[0_4px_30px_rgba(0,0,0,0.5)] py-3'
-            : 'top-[36px] bg-charcoal-900/80 backdrop-blur-sm py-4'
+            : 'top-0 lg:top-[36px] bg-charcoal-900/80 backdrop-blur-sm py-4'
         }`}
       >
         <div className="section-container flex items-center justify-between">
